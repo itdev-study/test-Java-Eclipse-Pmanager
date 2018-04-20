@@ -44,7 +44,9 @@ public class MainForm {
 			@Override
 			public void mouseClicked(MouseEvent arg0) {
 				
+				
 				//TestForm testform = new TestForm();
+				
 				
 				ChildFrame childFrame = new ChildFrame();
 				desktopPane.add(childFrame);					
