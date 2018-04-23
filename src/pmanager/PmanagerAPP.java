@@ -17,7 +17,7 @@ public class PmanagerAPP {
 					window.desktopPane.add(childFrame);					
 					childFrame.setVisible(true);
 					
-					TestForm testform = new TestForm();
+				//	TestForm testform = new TestForm();
 				
 					
 				//	JInternalFrame internalFrame = new JInternalFrame("New JInternalFrame");
